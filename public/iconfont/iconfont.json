@@ -1,0 +1,240 @@
+{
+  "id": "3695024",
+  "name": "web组态",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19666044",
+      "name": "水平等间距",
+      "font_class": "shuipingdengjianju",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "19666046",
+      "name": "垂直等间距",
+      "font_class": "chuizhidengjianju",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "19666042",
+      "name": "居右对齐",
+      "font_class": "juyouduiqi",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "19666043",
+      "name": "上下居中对齐",
+      "font_class": "shangxiajuzhongduiqi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "19666045",
+      "name": "居下对齐",
+      "font_class": "juxiaduiqi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "19666047",
+      "name": "左右居中对齐",
+      "font_class": "zuoyoujuzhongduiqi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "19666048",
+      "name": "居上对齐",
+      "font_class": "jushangduiqi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "19666049",
+      "name": "居左对齐",
+      "font_class": "juzuoduiqi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1617840",
+      "name": "音频",
+      "font_class": "yinpin",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "2815724",
+      "name": "视频播放",
+      "font_class": "shipinbofang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11372711",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "1903782",
+      "name": "web__比特币右箭头",
+      "font_class": "web__bitebiyoujiantou",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "1903784",
+      "name": "web__比特币左箭头",
+      "font_class": "web__bitebizuojiantou",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "82753",
+      "name": "未选中圆圈",
+      "font_class": "weixuanzhongyuanquan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "383678",
+      "name": "空五角星",
+      "font_class": "kongwujiaoxing",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "487023",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "755562",
+      "name": "双向箭头",
+      "font_class": "double-arrows",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "792438",
+      "name": "cube-立方体",
+      "font_class": "cubelifangti",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "2471401",
+      "name": "消息框",
+      "font_class": "xiaoxikuang",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "4354256",
+      "name": "形状-三角形",
+      "font_class": "xingzhuang-sanjiaoxing",
+      "unicode": "eb99",
+      "unicode_decimal": 60313
+    },
+    {
+      "icon_id": "4933871",
+      "name": "线",
+      "font_class": "xian",
+      "unicode": "ec1f",
+      "unicode_decimal": 60447
+    },
+    {
+      "icon_id": "5387767",
+      "name": "文件夹_o",
+      "font_class": "wenjianjia_o",
+      "unicode": "eb4f",
+      "unicode_decimal": 60239
+    },
+    {
+      "icon_id": "5388008",
+      "name": "云_o",
+      "font_class": "yun_o",
+      "unicode": "ebb3",
+      "unicode_decimal": 60339
+    },
+    {
+      "icon_id": "5916431",
+      "name": "SVG",
+      "font_class": "SVG",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "9229179",
+      "name": "GIF",
+      "font_class": "GIF",
+      "unicode": "e90e",
+      "unicode_decimal": 59662
+    },
+    {
+      "icon_id": "11200396",
+      "name": "五边形",
+      "font_class": "pentagon",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11467418",
+      "name": "矩形",
+      "font_class": "juxing",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "18170238",
+      "name": "网页代码,网页程序",
+      "font_class": "program-full",
+      "unicode": "e991",
+      "unicode_decimal": 59793
+    },
+    {
+      "icon_id": "20776138",
+      "name": "音视频云备份",
+      "font_class": "yinshipinyunbeifen",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
+      "icon_id": "22383119",
+      "name": "菱形",
+      "font_class": "lingxing",
+      "unicode": "edda",
+      "unicode_decimal": 60890
+    },
+    {
+      "icon_id": "27938688",
+      "name": "六边形",
+      "font_class": "hexagon",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "27938703",
+      "name": "双向箭头",
+      "font_class": "doubleHorizontalArrow",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "8559548",
+      "name": "柱线组合图",
+      "font_class": "zhuxianzuhetu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
